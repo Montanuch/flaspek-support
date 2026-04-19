@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flaspek — Support</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1c1c1e;
+    --muted: #6c6c70;
+    --accent: #ff375f;
+    --card: #f5f5f7;
+    --border: #e5e5ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #000000;
+      --fg: #f5f5f7;
+      --muted: #98989d;
+      --card: #1c1c1e;
+      --border: #2c2c2e;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 48px 24px;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 720px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 48px; }
+  .logo {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #ff375f, #ff9500);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+  }
+  .tagline { color: var(--muted); font-size: 18px; }
+  h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 16px;
+    letter-spacing: -0.01em;
+  }
+  h3 { font-size: 17px; font-weight: 600; margin-top: 24px; margin-bottom: 8px; }
+  p { margin: 8px 0; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    margin: 16px 0;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .email {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 20px;
+    background: var(--accent);
+    color: white;
+    border-radius: 12px;
+    margin-top: 8px;
+  }
+  .email:hover { text-decoration: none; opacity: 0.9; }
+  .lang-switch {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+  .lang-switch a { margin: 0 8px; color: var(--muted); }
+  ul { padding-left: 20px; }
+  li { margin: 6px 0; }
+  footer {
+    margin-top: 64px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  footer a { color: var(--muted); margin: 0 8px; }
+  .section[hidden] { display: none; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">Flaspek</div>
+      <div class="tagline">Voice-to-marquee for iPhone</div>
+    </header>
+
+    <div class="lang-switch">
+      <a href="#" onclick="setLang('en'); return false;">English</a>·
+      <a href="#" onclick="setLang('ru'); return false;">Русский</a>
+    </div>
+
+    <!-- ENGLISH -->
+    <section class="section" id="en">
+      <h2>Support</h2>
+      <div class="card">
+        <p>Need help, found a bug, or have a feature request? Get in touch — I read every message.</p>
+        <p><a class="email" href="mailto:gorbatiukviktor@gmail.com?subject=Flaspek%20Support">gorbatiukviktor@gmail.com</a></p>
+      </div>
+
+      <h2>FAQ</h2>
+
+      <h3>Speech recognition isn't working</h3>
+      <p>Make sure you granted Microphone and Speech Recognition permissions in <em>Settings → Flaspek</em>. Speech recognition requires an internet connection for most languages.</p>
+
+      <h3>AirPods remote control doesn't trigger</h3>
+      <p>AirPods remote control (double-squeeze / triple-squeeze) only works on a real iPhone, not the simulator. Make sure you're in Live mode and your AirPods are connected. Single-tap behavior depends on what you've assigned in <em>iOS Settings → Bluetooth → AirPods</em>.</p>
+
+      <h3>Punctuation isn't appearing</h3>
+      <p>Speak punctuation marks aloud: say "comma", "period", "question mark" (or "запятая", "точка", "вопросительный знак" in Russian). They are inserted automatically.</p>
+
+      <h3>Which languages are supported?</h3>
+      <p>Speech recognition supports all languages available on your device via Apple's speech recognition framework. The app interface is localized in English and Russian.</p>
+
+      <h3>Does Flaspek work offline?</h3>
+      <p>The marquee display works fully offline. Speech recognition requires an internet connection unless your device has an on-device speech model installed for that language.</p>
+
+      <h3>How do I save a favorite?</h3>
+      <p>After dictating, tap the heart icon in the preview to save the message with its current style. Find saved messages by tapping the bookmark icon on the home screen.</p>
+
+      <h2>Privacy</h2>
+      <div class="card">
+        <p>Flaspek does not collect, track, or share any personal data. All your messages and settings stay on your device.</p>
+        <p><a href="privacy.html">Read the full Privacy Policy →</a></p>
+      </div>
+
+      <h2>System Requirements</h2>
+      <ul>
+        <li>iPhone running iOS 26 or later</li>
+        <li>Microphone access (for voice input)</li>
+        <li>Speech Recognition permission</li>
+        <li>Internet connection (for cloud-based speech recognition)</li>
+      </ul>
+    </section>
+
+    <!-- RUSSIAN -->
+    <section class="section" id="ru" hidden>
+      <h2>Поддержка</h2>
+      <div class="card">
+        <p>Нужна помощь, нашли баг или хотите предложить функцию? Напишите — я читаю каждое письмо.</p>
+        <p><a class="email" href="mailto:gorbatiukviktor@gmail.com?subject=Flaspek%20Support">gorbatiukviktor@gmail.com</a></p>
+      </div>
+
+      <h2>Частые вопросы</h2>
+
+      <h3>Не работает распознавание речи</h3>
+      <p>Убедитесь, что разрешили доступ к микрофону и распознаванию речи в <em>Настройки → Flaspek</em>. Для большинства языков нужно интернет-соединение.</p>
+
+      <h3>Не срабатывает управление с AirPods</h3>
+      <p>Управление с AirPods (двойное / тройное нажатие) работает только на реальном iPhone, не на симуляторе. Убедитесь, что вы в Live-режиме и AirPods подключены. Одиночное нажатие зависит от настройки в <em>Настройки iOS → Bluetooth → AirPods</em>.</p>
+
+      <h3>Не появляется пунктуация</h3>
+      <p>Произносите знаки препинания вслух: «запятая», «точка», «вопросительный знак» (или "comma", "period", "question mark" на английском). Они подставятся автоматически.</p>
+
+      <h3>Какие языки поддерживаются?</h3>
+      <p>Распознавание речи работает для всех языков, доступных на вашем устройстве через фреймворк Apple. Интерфейс приложения локализован на английский и русский.</p>
+
+      <h3>Работает ли Flaspek офлайн?</h3>
+      <p>Бегущая строка работает полностью офлайн. Для распознавания речи нужен интернет, если только на устройстве не установлена офлайн-модель для нужного языка.</p>
+
+      <h3>Как сохранить избранное?</h3>
+      <p>После диктовки нажмите иконку сердца в превью — сообщение сохранится с текущим стилем. Сохранённые сообщения открываются по иконке закладок на главном экране.</p>
+
+      <h2>Конфиденциальность</h2>
+      <div class="card">
+        <p>Flaspek не собирает, не отслеживает и не передаёт никаких персональных данных. Все ваши сообщения и настройки остаются на устройстве.</p>
+        <p><a href="privacy.html">Полная Политика конфиденциальности →</a></p>
+      </div>
+
+      <h2>Системные требования</h2>
+      <ul>
+        <li>iPhone с iOS 26 или новее</li>
+        <li>Доступ к микрофону (для голосового ввода)</li>
+        <li>Разрешение на распознавание речи</li>
+        <li>Интернет-соединение (для облачного распознавания)</li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>© 2026 Viktor Gorbatiuk · <a href="privacy.html">Privacy</a> · <a href="mailto:gorbatiukviktor@gmail.com">Contact</a></p>
+    </footer>
+  </div>
+
+<script>
+  function setLang(lang) {
+    document.getElementById('en').hidden = (lang !== 'en');
+    document.getElementById('ru').hidden = (lang !== 'ru');
+    try { localStorage.setItem('flaspek-lang', lang); } catch (e) {}
+  }
+  (function() {
+    let saved;
+    try { saved = localStorage.getItem('flaspek-lang'); } catch (e) {}
+    const lang = saved || (navigator.language && navigator.language.toLowerCase().startsWith('ru') ? 'ru' : 'en');
+    setLang(lang);
+  })();
+</script>
+</body>
+</html>

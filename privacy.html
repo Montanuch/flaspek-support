@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flaspek — Privacy Policy</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1c1c1e;
+    --muted: #6c6c70;
+    --accent: #ff375f;
+    --card: #f5f5f7;
+    --border: #e5e5ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #000000;
+      --fg: #f5f5f7;
+      --muted: #98989d;
+      --card: #1c1c1e;
+      --border: #2c2c2e;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 48px 24px;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 720px; margin: 0 auto; }
+  header { margin-bottom: 32px; }
+  .back { color: var(--muted); font-size: 14px; text-decoration: none; }
+  .back:hover { color: var(--accent); }
+  h1 {
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin: 16px 0 4px;
+  }
+  .updated { color: var(--muted); font-size: 14px; margin-bottom: 32px; }
+  h2 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 36px;
+    margin-bottom: 12px;
+    letter-spacing: -0.01em;
+  }
+  h3 { font-size: 16px; font-weight: 600; margin-top: 20px; margin-bottom: 6px; }
+  p { margin: 8px 0; }
+  ul { padding-left: 20px; }
+  li { margin: 6px 0; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 20px;
+    margin: 16px 0;
+  }
+  .lang-switch {
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+  .lang-switch a { margin-right: 12px; color: var(--muted); }
+  footer {
+    margin-top: 64px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  footer a { color: var(--muted); margin: 0 8px; }
+  .section[hidden] { display: none; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a class="back" href="index.html">← Flaspek Support</a>
+      <h1>Privacy Policy</h1>
+      <p class="updated">Last updated: April 19, 2026</p>
+    </header>
+
+    <div class="lang-switch">
+      <a href="#" onclick="setLang('en'); return false;">English</a>·
+      <a href="#" onclick="setLang('ru'); return false;">Русский</a>
+    </div>
+
+    <!-- ENGLISH -->
+    <section class="section" id="en">
+      <div class="card">
+        <p><strong>Short version:</strong> Flaspek does not collect, transmit, sell, or share any personal data. Everything you create stays on your device.</p>
+      </div>
+
+      <h2>Information We Collect</h2>
+      <p><strong>None.</strong> Flaspek does not collect any personal information, usage analytics, advertising identifiers, location data, contacts, or device identifiers. There are no third-party trackers, advertising networks, or analytics SDKs in the app.</p>
+
+      <h2>Microphone &amp; Speech Recognition</h2>
+      <p>Flaspek requests access to your device's microphone and to Apple's Speech Recognition framework so you can dictate messages.</p>
+      <ul>
+        <li><strong>Audio is captured locally</strong> on your device only when you start a recording or enter Live mode.</li>
+        <li><strong>Speech recognition is performed by Apple.</strong> For most languages, audio is sent to Apple's speech recognition servers for transcription. This is handled by iOS itself, not by Flaspek. Apple's handling of this data is described in <a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple's Privacy Policy</a>.</li>
+        <li><strong>Flaspek does not store, transmit, or upload your audio anywhere.</strong> No raw audio leaves your device through Flaspek.</li>
+        <li>The app stops listening when you tap Stop, exit Live mode, or after 3 seconds of silence.</li>
+      </ul>
+
+      <h2>Data Stored on Your Device</h2>
+      <p>The following data is stored locally on your device and is never transmitted to us or any third party:</p>
+      <ul>
+        <li><strong>Favorite messages</strong> — saved via Apple's SwiftData. Used only to display your saved messages on this device.</li>
+        <li><strong>Style settings</strong> — colors, fonts, animation speeds, display preferences. Stored via UserDefaults.</li>
+        <li><strong>Language preference</strong> — stored via UserDefaults.</li>
+      </ul>
+      <p>This data is included in your standard iCloud device backup if you have iCloud Backup enabled on your iPhone. We do not have access to it.</p>
+
+      <h2>Data We Do NOT Collect</h2>
+      <ul>
+        <li>Personal information (name, email, phone)</li>
+        <li>Location data</li>
+        <li>Contacts, calendar, or photos</li>
+        <li>Advertising identifiers (IDFA)</li>
+        <li>Crash reports or analytics</li>
+        <li>Usage statistics</li>
+        <li>Device identifiers</li>
+      </ul>
+
+      <h2>Tracking</h2>
+      <p>Flaspek does not track users across apps or websites owned by other companies. The app declares <code>NSPrivacyTracking = false</code> in its privacy manifest and is not required to display App Tracking Transparency prompts.</p>
+
+      <h2>Third-Party Services</h2>
+      <p>The only third party involved is <strong>Apple</strong>, through the operating system frameworks Flaspek uses (Speech Recognition, SwiftData, MediaPlayer for AirPods remote control). The app does not integrate with any other third-party services, analytics platforms, advertising networks, or backend servers.</p>
+
+      <h2>Children's Privacy</h2>
+      <p>Flaspek is suitable for users of all ages and does not knowingly collect any data from children. Since we collect no personal data at all, no special children's data handling is required.</p>
+
+      <h2>Data Deletion</h2>
+      <p>To delete all data stored by Flaspek, simply delete the app from your iPhone. This removes all favorites, style settings, and preferences. There is no server-side data to delete because nothing is sent to a server.</p>
+
+      <h2>Changes to This Policy</h2>
+      <p>If this policy changes, the updated date at the top of the page will be revised. Material changes will also be noted in the app's release notes.</p>
+
+      <h2>Contact</h2>
+      <p>Questions about this privacy policy? Email <a href="mailto:gorbatiukviktor@gmail.com">gorbatiukviktor@gmail.com</a>.</p>
+    </section>
+
+    <!-- RUSSIAN -->
+    <section class="section" id="ru" hidden>
+      <div class="card">
+        <p><strong>Если коротко:</strong> Flaspek не собирает, не передаёт, не продаёт и не делится никакими персональными данными. Всё что вы создаёте остаётся на вашем устройстве.</p>
+      </div>
+
+      <h2>Какую информацию мы собираем</h2>
+      <p><strong>Никакую.</strong> Flaspek не собирает персональные данные, аналитику использования, рекламные идентификаторы, геолокацию, контакты или идентификаторы устройства. В приложении нет сторонних трекеров, рекламных сетей или SDK аналитики.</p>
+
+      <h2>Микрофон и распознавание речи</h2>
+      <p>Flaspek запрашивает доступ к микрофону устройства и к фреймворку распознавания речи Apple, чтобы вы могли диктовать сообщения.</p>
+      <ul>
+        <li><strong>Аудио записывается локально</strong> на вашем устройстве только когда вы начинаете запись или входите в Live-режим.</li>
+        <li><strong>Распознавание речи выполняется Apple.</strong> Для большинства языков аудио отправляется на серверы распознавания речи Apple для транскрибации. Это делает iOS, не Flaspek. Обработка этих данных описана в <a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Политике конфиденциальности Apple</a>.</li>
+        <li><strong>Flaspek нигде не хранит, не передаёт и не выгружает ваше аудио.</strong> Сырое аудио не покидает ваше устройство через Flaspek.</li>
+        <li>Приложение прекращает слушать когда вы нажимаете Стоп, выходите из Live-режима, или после 3 секунд тишины.</li>
+      </ul>
+
+      <h2>Данные, хранящиеся на устройстве</h2>
+      <p>Следующие данные хранятся локально на вашем устройстве и никогда не передаются нам или третьим лицам:</p>
+      <ul>
+        <li><strong>Избранные сообщения</strong> — сохраняются через Apple SwiftData. Используются только для отображения сохранённых сообщений на этом устройстве.</li>
+        <li><strong>Настройки стиля</strong> — цвета, шрифты, скорость анимации, параметры отображения. Хранятся через UserDefaults.</li>
+        <li><strong>Языковые настройки</strong> — хранятся через UserDefaults.</li>
+      </ul>
+      <p>Эти данные включаются в стандартную резервную копию iCloud, если на вашем iPhone включён iCloud Backup. У нас нет доступа к ним.</p>
+
+      <h2>Что мы НЕ собираем</h2>
+      <ul>
+        <li>Персональные данные (имя, email, телефон)</li>
+        <li>Геолокацию</li>
+        <li>Контакты, календарь, фото</li>
+        <li>Рекламные идентификаторы (IDFA)</li>
+        <li>Отчёты о крашах и аналитику</li>
+        <li>Статистику использования</li>
+        <li>Идентификаторы устройства</li>
+      </ul>
+
+      <h2>Отслеживание</h2>
+      <p>Flaspek не отслеживает пользователей в приложениях и сайтах других компаний. Приложение декларирует <code>NSPrivacyTracking = false</code> в манифесте конфиденциальности и не показывает запросы App Tracking Transparency.</p>
+
+      <h2>Сторонние сервисы</h2>
+      <p>Единственная вовлечённая третья сторона — <strong>Apple</strong>, через системные фреймворки которые использует Flaspek (Speech Recognition, SwiftData, MediaPlayer для управления AirPods). Приложение не интегрировано с какими-либо другими сторонними сервисами, аналитикой, рекламными сетями или бэкенд-серверами.</p>
+
+      <h2>Конфиденциальность детей</h2>
+      <p>Flaspek подходит для пользователей всех возрастов и сознательно не собирает никаких данных у детей. Поскольку мы вообще не собираем персональных данных, специальной обработки детских данных не требуется.</p>
+
+      <h2>Удаление данных</h2>
+      <p>Чтобы удалить все данные, сохранённые Flaspek, просто удалите приложение с iPhone. Это уберёт все избранные сообщения, настройки стиля и параметры. Серверных данных удалять не нужно — мы ничего не отправляем на сервер.</p>
+
+      <h2>Изменения политики</h2>
+      <p>Если политика изменится, дата обновления вверху страницы будет изменена. Существенные изменения также будут отмечены в release notes приложения.</p>
+
+      <h2>Контакты</h2>
+      <p>Вопросы по политике конфиденциальности? Пишите на <a href="mailto:gorbatiukviktor@gmail.com">gorbatiukviktor@gmail.com</a>.</p>
+    </section>
+
+    <footer>
+      <p>© 2026 Viktor Gorbatiuk · <a href="index.html">Support</a> · <a href="mailto:gorbatiukviktor@gmail.com">Contact</a></p>
+    </footer>
+  </div>
+
+<script>
+  function setLang(lang) {
+    document.getElementById('en').hidden = (lang !== 'en');
+    document.getElementById('ru').hidden = (lang !== 'ru');
+    try { localStorage.setItem('flaspek-lang', lang); } catch (e) {}
+  }
+  (function() {
+    let saved;
+    try { saved = localStorage.getItem('flaspek-lang'); } catch (e) {}
+    const lang = saved || (navigator.language && navigator.language.toLowerCase().startsWith('ru') ? 'ru' : 'en');
+    setLang(lang);
+  })();
+</script>
+</body>
+</html>
