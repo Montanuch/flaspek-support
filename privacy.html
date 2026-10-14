@@ -86,7 +86,7 @@
     <header>
       <a class="back" href="index.html">← Flaspek Support</a>
       <h1>Privacy Policy</h1>
-      <p class="updated">Last updated: April 19, 2026</p>
+      <p class="updated">Last updated: October 14, 2026</p>
     </header>
 
     <div class="lang-switch">
@@ -118,6 +118,7 @@
         <li><strong>Favorite messages</strong> — saved via Apple's SwiftData. Used only to display your saved messages on this device.</li>
         <li><strong>Style settings</strong> — colors, fonts, animation speeds, display preferences. Stored via UserDefaults.</li>
         <li><strong>Language preference</strong> — stored via UserDefaults.</li>
+        <li><strong>Pro status</strong> — whether a Flaspek Pro subscription or lifetime purchase is active, cached via UserDefaults so the App works offline. The purchase itself is handled by Apple (see Purchases below).</li>
       </ul>
       <p>This data is included in your standard iCloud device backup if you have iCloud Backup enabled on your iPhone. We do not have access to it.</p>
 
@@ -132,11 +133,14 @@
         <li>Device identifiers</li>
       </ul>
 
+      <h2>Purchases</h2>
+      <p>Flaspek Pro (weekly subscription or one-time lifetime purchase) is sold through Apple's In-App Purchase system (StoreKit). Apple processes the payment; we never receive your name, payment details, billing address or Apple Account identifier. The App only reads an anonymised transaction record from Apple to confirm that Pro is active. Apple's handling of purchase data is described in <a href="https://www.apple.com/legal/privacy/">Apple's Privacy Policy</a>.</p>
+
       <h2>Tracking</h2>
       <p>Flaspek does not track users across apps or websites owned by other companies. The app declares <code>NSPrivacyTracking = false</code> in its privacy manifest and is not required to display App Tracking Transparency prompts.</p>
 
       <h2>Third-Party Services</h2>
-      <p>The only third party involved is <strong>Apple</strong>, through the operating system frameworks Flaspek uses (Speech Recognition, SwiftData, MediaPlayer for AirPods remote control). The app does not integrate with any other third-party services, analytics platforms, advertising networks, or backend servers.</p>
+      <p>The only third party involved is <strong>Apple</strong>, through the operating system frameworks Flaspek uses (Speech Recognition, Translation, SwiftData, StoreKit for purchases, MediaPlayer for AirPods remote control). The app does not integrate with any other third-party services, analytics platforms, advertising networks, or backend servers.</p>
 
       <h2>Children's Privacy</h2>
       <p>Flaspek is suitable for users of all ages and does not knowingly collect any data from children. Since we collect no personal data at all, no special children's data handling is required.</p>
@@ -175,6 +179,7 @@
         <li><strong>Избранные сообщения</strong> — сохраняются через Apple SwiftData. Используются только для отображения сохранённых сообщений на этом устройстве.</li>
         <li><strong>Настройки стиля</strong> — цвета, шрифты, скорость анимации, параметры отображения. Хранятся через UserDefaults.</li>
         <li><strong>Языковые настройки</strong> — хранятся через UserDefaults.</li>
+        <li><strong>Статус Pro</strong> — активна ли подписка Flaspek Pro или пожизненная покупка; кэшируется через UserDefaults, чтобы Приложение работало офлайн. Саму покупку обрабатывает Apple (см. «Покупки» ниже).</li>
       </ul>
       <p>Эти данные включаются в стандартную резервную копию iCloud, если на вашем iPhone включён iCloud Backup. У нас нет доступа к ним.</p>
 
@@ -189,11 +194,14 @@
         <li>Идентификаторы устройства</li>
       </ul>
 
+      <h2>Покупки</h2>
+      <p>Flaspek Pro (недельная подписка или разовая пожизненная покупка) продаётся через систему встроенных покупок Apple (StoreKit). Платёж обрабатывает Apple; мы никогда не получаем ваше имя, платёжные данные, адрес или идентификатор учётной записи Apple. Приложение читает лишь обезличенную запись о транзакции от Apple, чтобы подтвердить, что Pro активен. Обработка данных о покупках Apple описана в <a href="https://www.apple.com/legal/privacy/">Политике конфиденциальности Apple</a>.</p>
+
       <h2>Отслеживание</h2>
       <p>Flaspek не отслеживает пользователей в приложениях и сайтах других компаний. Приложение декларирует <code>NSPrivacyTracking = false</code> в манифесте конфиденциальности и не показывает запросы App Tracking Transparency.</p>
 
       <h2>Сторонние сервисы</h2>
-      <p>Единственная вовлечённая третья сторона — <strong>Apple</strong>, через системные фреймворки которые использует Flaspek (Speech Recognition, SwiftData, MediaPlayer для управления AirPods). Приложение не интегрировано с какими-либо другими сторонними сервисами, аналитикой, рекламными сетями или бэкенд-серверами.</p>
+      <p>Единственная вовлечённая третья сторона — <strong>Apple</strong>, через системные фреймворки которые использует Flaspek (Speech Recognition, Translation, SwiftData, StoreKit для покупок, MediaPlayer для управления AirPods). Приложение не интегрировано с какими-либо другими сторонними сервисами, аналитикой, рекламными сетями или бэкенд-серверами.</p>
 
       <h2>Конфиденциальность детей</h2>
       <p>Flaspek подходит для пользователей всех возрастов и сознательно не собирает никаких данных у детей. Поскольку мы вообще не собираем персональных данных, специальной обработки детских данных не требуется.</p>
