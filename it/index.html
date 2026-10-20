@@ -24,6 +24,9 @@
 <link rel="alternate" hreflang="x-default" href="https://montanuch.github.io/flaspek-support/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="theme-color" content="#0A1628">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="../favicon-64.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
 <meta name="apple-itunes-app" content="app-id=6762515189">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Flaspek">
@@ -233,29 +236,22 @@
 </script>
 <style>
   :root {
-    color-scheme: light dark;
-    --bg: #ffffff;
-    --fg: #1c1c1e;
-    --muted: #6c6c70;
-    --accent: #ff375f;
-    --card: #f5f5f7;
-    --border: #e5e5ea;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #000000;
-      --fg: #f5f5f7;
-      --muted: #98989d;
-      --card: #1c1c1e;
-      --border: #2c2c2e;
-    }
+    /* Flaspek palette — mirrors Theme.swift in the app: accent #00D4FF, recordRed #FF3B7A, gradientDefaultHex #0A1628 */
+    color-scheme: dark;
+    --bg: #0A1628;
+    --fg: #f5f7fa;
+    --muted: #8d9bb3;
+    --accent: #00D4FF;
+    --record: #FF3B7A;
+    --card: #111f38;
+    --border: #1e2f4d;
   }
   * { box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
     margin: 0;
     padding: 48px 24px;
-    background: var(--bg);
+    background: radial-gradient(ellipse 80% 40% at 50% -5%, rgba(0, 212, 255, 0.16), transparent), var(--bg);
     color: var(--fg);
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
@@ -266,13 +262,15 @@
     font-size: 56px;
     font-weight: 800;
     letter-spacing: -0.02em;
-    background: linear-gradient(135deg, #ff375f, #ff9500);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: var(--accent);
+    text-shadow: 0 0 28px rgba(0, 212, 255, 0.45), 0 0 2px rgba(0, 212, 255, 0.6);
     margin-bottom: 8px;
   }
   .tagline { color: var(--muted); font-size: 18px; }
+  .app-icon {
+    display: block; margin: 0 auto 20px; width: 128px; height: 128px; border-radius: 28.6px;
+    box-shadow: 0 12px 40px rgba(0, 212, 255, 0.25), 0 2px 8px rgba(0, 0, 0, 0.5);
+  }
   h2 {
     font-size: 24px;
     font-weight: 700;
@@ -297,7 +295,7 @@
     font-weight: 600;
     padding: 12px 20px;
     background: var(--accent);
-    color: white;
+    color: #0A1628;
     border-radius: 12px;
     margin-top: 8px;
   }
@@ -339,6 +337,7 @@
 <body>
   <div class="container">
     <header>
+      <img class="app-icon" src="../icon-256.png" width="128" height="128" alt="Flaspek app icon">
       <div class="logo">Flaspek</div>
       <div class="tagline">Testo scorrevole LED, insegna e scritta grande per iPhone</div>
       <div class="hero-cta">
