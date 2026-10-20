@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://montanuch.github.io/flaspek-support/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://montanuch.github.io/flaspek-support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://montanuch.github.io/flaspek-support/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://montanuch.github.io/flaspek-support/"/>
+  </url>
+  <url>
+    <loc>https://montanuch.github.io/flaspek-support/ru/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://montanuch.github.io/flaspek-support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://montanuch.github.io/flaspek-support/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://montanuch.github.io/flaspek-support/"/>
+  </url>
+  <url>
+    <loc>https://montanuch.github.io/flaspek-support/privacy.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://montanuch.github.io/flaspek-support/terms.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

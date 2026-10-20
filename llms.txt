@@ -1,0 +1,44 @@
+# Flaspek
+
+> Flaspek is an iPhone app that turns the phone into a sign. The user speaks, and the words fill the screen in giant letters: a scrolling LED-style banner (marquee), one big word at a time, or a static multi-line poster. No typing needed. iOS 26.4 or later. App Store: https://apps.apple.com/app/id6762515189
+
+App Store name: "Flaspek: LED Banner & Big Text". Developer: Viktor Gorbatiuk (solo developer). Support: vibeprogerai@gmail.com. Version 1.02 (October 2026).
+
+## What it is for
+
+Being seen or read from a distance: concerts and matches (fan sign), airport arrivals and pickups (name sign), loud bars and parties, dark rooms, car windows, and talking to someone who cannot hear you (Conversation mode: they speak, you read).
+
+## How it works
+
+1. Tap the microphone, say the message, tap Show. The sign goes fullscreen at maximum brightness.
+2. Pinch to resize, drag up or down to change speed, swipe down to exit.
+3. Live mode: tap Live and every word appears on the sign as it is spoken. Squeeze AirPods to start a new line hands-free.
+
+## Features
+
+- Three display modes: Scroll (marquee, any direction or bounce), Word by word (RSVP-style big text), Poster (static multi-line sign that fits the screen).
+- Effects: glow, neon, rainbow, pulse, flicker, fire, trail. 12 presets: Concert, Sport, Airport, Pickup, Outdoor, Conversation, Love, Party, Neon, SOS, Minimal, MAX. Fonts, weights, colors, gradients.
+- Speech recognition in 16 languages (English, Chinese, Hindi, Spanish, French, Arabic, Portuguese, Russian, Indonesian, German, Japanese, Turkish, Korean, Italian, Ukrainian, Polish) plus Auto. Provided by Apple; needs internet for most languages.
+- Spoken punctuation and symbols: "comma", "question mark", "heart sign", "star sign", "arrow sign" (Russian: "запятая", "вопросительный знак", "сердечко", "звёздочка", "стрелочка").
+- One-tap re-record in another language when a sentence is misheard.
+- Live translation of the sign into another language, including while speaking.
+- Share as a video loop (1080p) or a poster image.
+- Favorites and Recents (last 20 shown messages).
+- Siri and Shortcuts: "Show my sign in Flaspek", "Start live in Flaspek".
+- Auto-off timer (30 s to 2 h) with optional countdown on the sign, gesture lock, mirror mode, pause when the phone goes into a pocket.
+- App interface localized in 15 languages.
+
+## Pricing
+
+Free: every style, effect, Live mode and favorites; 2 shows per calendar day (a show = a new message going fullscreen; re-showing the same message is free). Flaspek Pro lifts the daily limit: weekly auto-renewable subscription or a one-time lifetime unlock. Prices are set per country in the App Store. Cancel in iPhone Settings > Subscriptions; restore purchases from the Flaspek Pro screen in the app.
+
+## Privacy
+
+No accounts, no analytics, no tracking, no ads. Messages, favorites and settings are stored only on the device; deleting the app deletes everything. Microphone is used only while recording. Speech recognition is performed by Apple. Purchases go through the App Store.
+
+## Pages
+
+- Support & FAQ (English): https://montanuch.github.io/flaspek-support/
+- Support & FAQ (Russian): https://montanuch.github.io/flaspek-support/ru/
+- Privacy Policy: https://montanuch.github.io/flaspek-support/privacy.html
+- Terms of Use: https://montanuch.github.io/flaspek-support/terms.html
