@@ -1,0 +1,118 @@
+{
+  "title": "Letrero LED por voz, texto grande y banner para iPhone: Flaspek — Soporte y preguntas frecuentes",
+  "description": "Flaspek convierte tu iPhone en un letrero LED con texto en movimiento, una pantalla de texto grande o un cartel. Habla y tus palabras llenan la pantalla. Soporte, preguntas frecuentes, modo En vivo, AirPods, Flaspek Pro.",
+  "og_title": "Letrero LED por voz y texto grande para iPhone: Flaspek",
+  "og_description": "Habla y tus palabras llenan la pantalla del iPhone con letras gigantes. Texto en movimiento, palabra por palabra o cartel fijo. Soporte y preguntas frecuentes.",
+  "hint": "Esta página también está disponible en español →",
+  "tagline": "Letrero LED por voz, texto grande y banner para iPhone",
+  "store_cta": "Descargar en el App Store",
+  "what_h": "¿Qué es Flaspek?",
+  "what_lead": "Flaspek convierte tu iPhone en un letrero. Habla y tus palabras llenan la pantalla con letras gigantes: texto en movimiento al estilo de un banner LED, una palabra grande a la vez o un cartel fijo de varias líneas. Sin escribir nada.",
+  "what_p": "Está hecho para los momentos en que necesitas que te vean o te lean desde lejos: un concierto o un partido, una sala de llegadas, un punto de recogida, un bar ruidoso, una sala a oscuras, la ventanilla de un coche o una conversación con alguien que no puede oírte.",
+  "how_h": "Cómo funciona",
+  "steps": [
+    [
+      "Dilo.",
+      "Toca el micrófono y di tu mensaje. ¿No te ha entendido bien? Toca una cápsula de idioma bajo el texto para regrabarlo en otro idioma."
+    ],
+    [
+      "Muéstralo.",
+      "Pulsa Mostrar. El letrero pasa a pantalla completa con el brillo al máximo. Pellizca para cambiar el tamaño, arrastra arriba o abajo para cambiar la velocidad, desliza hacia abajo para salir."
+    ],
+    [
+      "Sigue hablando.",
+      "Toca En vivo y cada palabra aparece en el letrero a medida que la dices. Aprieta tus AirPods para empezar una línea nueva sin tocar la pantalla."
+    ]
+  ],
+  "modes_p": "Tres modos de visualización: <strong>Desplazamiento</strong> (la marquesina clásica, en cualquier dirección o con rebote), <strong>Palabra por palabra</strong> (una palabra centrada, legible mientras te mueves) y <strong>Apilado</strong> (un cartel fijo que se ajusta solo a la pantalla). Efectos: brillo, neón, arcoíris, pulso, parpadeo, fuego y estela. Doce ajustes predefinidos de un toque: Concierto, Deporte, Aeropuerto, Recogida, Exterior, Conversación, Amor, Fiesta, Neón, SOS, Mínimo y MAX.",
+  "support_h": "Soporte",
+  "support_p": "¿Necesitas ayuda, has encontrado un error o quieres proponer una función? Escríbeme: leo todos los mensajes.",
+  "faq_h": "Preguntas frecuentes",
+  "faq": [
+    [
+      "¿Cómo hago un letrero con texto en movimiento en mi iPhone?",
+      "Abre Flaspek, toca el micrófono, di tu mensaje y pulsa <strong>Mostrar</strong>. El texto se desliza por toda la pantalla al máximo brillo, lo bastante grande para leerlo desde el fondo de la sala o entre la multitud. Pellizca para cambiar el tamaño, arrastra arriba o abajo para cambiar la velocidad, desliza hacia abajo para salir."
+    ],
+    [
+      "¿Flaspek es gratis?",
+      "Sí. Todos los estilos, los efectos, el modo En vivo y los favoritos son gratis. La versión gratuita permite <strong>2 muestras por día natural</strong>; una muestra es un mensaje nuevo que pasa a pantalla completa, y volver a mostrar el mismo mensaje no cuenta. <strong>Flaspek Pro</strong> elimina el límite diario con una suscripción semanal o un desbloqueo único de por vida. Los precios se muestran en la app y en el App Store de tu país."
+    ],
+    [
+      "¿Qué es el modo En vivo?",
+      "Toca <strong>En vivo</strong> y habla mientras el letrero ya está en pantalla. Cada palabra aparece a medida que la dices, así puedes mantener el móvil en alto sobre tu cabeza y seguir hablando. La grabación se detiene sola tras unos 8 segundos de silencio; pulsa <strong>Reiniciar</strong> o aprieta tus AirPods para empezar una línea nueva."
+    ],
+    [
+      "El reconocimiento de voz no funciona",
+      "Comprueba que el micrófono y el reconocimiento de voz están permitidos en <em>Ajustes → Flaspek</em>. El reconocimiento de voz lo proporciona Apple y necesita conexión a internet para la mayoría de los idiomas. Si una frase se ha entendido mal, toca una de las cápsulas de idioma bajo el texto para regrabarla en otro idioma."
+    ],
+    [
+      "El control remoto de los AirPods no responde",
+      "El control con AirPods solo funciona en el <strong>modo En vivo</strong> y en un iPhone real. Aprieta la patilla (una, dos o tres veces, todo vale) para empezar una línea nueva. Asegúrate de que los AirPods están conectados y de que hay una sesión En vivo en marcha: primero toca En vivo y luego usa el apretón."
+    ],
+    [
+      "¿Cómo pongo signos de puntuación y símbolos en el letrero?",
+      "Di la puntuación en voz alta. Los comandos hablados se reconocen en inglés y en ruso: \"comma\", \"period\", \"question mark\", \"exclamation mark\". Los símbolos funcionan igual: di \"heart sign\", \"star sign\" o \"arrow sign\" y obtendrás ♥ ★ →. El dictado en inglés recibe además puntuación automática de Apple."
+    ],
+    [
+      "¿Qué idiomas se admiten?",
+      "El reconocimiento de voz funciona en 16 idiomas: English, 中文, हिन्दी, Español, Français, العربية, Português, Русский, Bahasa Indonesia, Deutsch, 日本語, Türkçe, 한국어, Italiano, Українська y Polski, más <strong>Auto</strong> para el idioma de tu dispositivo. La interfaz de la app está traducida a 15 idiomas."
+    ],
+    [
+      "¿Flaspek funciona sin conexión?",
+      "El letrero en sí funciona completamente sin conexión. El reconocimiento de voz necesita internet, salvo que tu iPhone tenga instalado un modelo de voz en el dispositivo para ese idioma. Escribir un mensaje siempre funciona sin conexión."
+    ],
+    [
+      "¿Cómo traduzco el letrero a otro idioma?",
+      "En pantalla completa, abre el menú <strong>…</strong> y elige <strong>Traducir a…</strong>. El letrero se muestra en el idioma de destino, también mientras hablas en el modo En vivo. La primera vez, iOS puede pedir descargar un paquete de idioma."
+    ],
+    [
+      "¿Cómo guardo y reutilizo un mensaje?",
+      "Después de dictar, toca el botón del <strong>corazón</strong> junto a Mostrar para guardar el mensaje con su estilo actual. El botón del corazón en la pantalla de inicio abre <strong>Favoritos</strong> y <strong>Recientes</strong>; los últimos 20 mensajes mostrados se guardan automáticamente."
+    ],
+    [
+      "¿Cómo comparto el letrero como vídeo o imagen?",
+      "En pantalla completa, abre el menú <strong>…</strong> y elige <strong>Compartir como vídeo</strong> (un bucle, 1080p) o <strong>Compartir como póster</strong> (una imagen fija). Ambos abren la hoja de compartir estándar de iOS."
+    ],
+    [
+      "¿Puedo usar Siri?",
+      "Sí: \"Muestra mi letrero en Flaspek\" muestra el último mensaje y \"Empieza En vivo en Flaspek\" inicia una sesión En vivo. Ambos aparecen también en la app Atajos."
+    ],
+    [
+      "¿Cómo cancelo o restauro Flaspek Pro?",
+      "Cancela el plan semanal en <em>Ajustes del iPhone → tu nombre → Suscripciones</em>, o toca la línea Flaspek Pro en la parte inferior de la pantalla de inicio y elige <strong>Gestionar suscripción</strong>. Para restaurar una compra en un móvil nuevo, abre la misma pantalla y toca <strong>Restaurar compras</strong>. El desbloqueo de por vida es una compra única y nunca se renueva."
+    ],
+    [
+      "¿Cómo borro mis datos?",
+      "Todos los mensajes, favoritos y ajustes se guardan solo en tu iPhone. Al borrar la app se borra todo. Flaspek no tiene cuentas, ni analíticas, ni rastreo."
+    ]
+  ],
+  "privacy_h": "Privacidad",
+  "privacy_p": "Flaspek no recopila, rastrea ni comparte ningún dato personal. Todos tus mensajes y ajustes se quedan en tu dispositivo.",
+  "privacy_link": "Leer la Política de privacidad completa →",
+  "terms_link": "Términos de uso →",
+  "req_h": "Requisitos del sistema",
+  "req": [
+    "iPhone con iOS 26.4 o posterior",
+    "Acceso al micrófono (para la entrada de voz)",
+    "Permiso de reconocimiento de voz",
+    "Conexión a internet (para el reconocimiento de voz en la nube)",
+    "AirPods o cualquier auricular Bluetooth con control de reproducción/pausa (opcional, para el modo En vivo sin manos)"
+  ],
+  "footer_privacy": "Privacidad",
+  "footer_terms": "Términos",
+  "footer_contact": "Contacto",
+  "ld_description": "Flaspek convierte tu iPhone en un letrero LED con texto en movimiento, una pantalla de texto grande palabra por palabra o un cartel fijo. Habla y tus palabras llenan la pantalla con letras gigantes, sin escribir nada.",
+  "ld_os": "iOS 26.4 o posterior",
+  "ld_offer": "Gratis con 2 muestras al día. Flaspek Pro (suscripción semanal o desbloqueo único de por vida) elimina el límite diario.",
+  "ld_features": [
+    "De la voz al texto en movimiento: habla y el mensaje se convierte en una marquesina a pantalla completa",
+    "Tres modos de visualización: texto en movimiento, texto grande palabra por palabra, cartel fijo",
+    "Modo En vivo: las palabras aparecen en el letrero mientras hablas",
+    "Un apretón de los AirPods empieza una línea nueva sin tocar la pantalla",
+    "Reconocimiento de voz en 16 idiomas, puntuación y símbolos por voz",
+    "Efectos: brillo, neón, arcoíris, pulso, parpadeo, fuego, estela; 12 ajustes predefinidos",
+    "Traducción del letrero a otro idioma en tiempo real",
+    "Compartir como vídeo en bucle o imagen de póster",
+    "Siri y Atajos, temporizador de apagado, bloqueo de gestos, modo espejo"
+  ]
+}

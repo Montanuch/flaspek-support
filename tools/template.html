@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="{{html_lang}}" dir="{{dir}}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{url}}">
+{{hreflangs}}
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0A1628">
+<meta name="apple-itunes-app" content="app-id={{app_id}}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Flaspek">
+<meta property="og:title" content="{{og_title}}">
+<meta property="og:description" content="{{og_description}}">
+<meta property="og:url" content="{{url}}">
+<meta property="og:image" content="{{site}}og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="{{og_locale}}">
+{{og_alternates}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{og_title}}">
+<meta name="twitter:description" content="{{og_description}}">
+<meta name="twitter:image" content="{{site}}og-image.png">
+<script type="application/ld+json">
+{{ld_app}}
+</script>
+<script type="application/ld+json">
+{{ld_faq}}
+</script>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1c1c1e;
+    --muted: #6c6c70;
+    --accent: #ff375f;
+    --card: #f5f5f7;
+    --border: #e5e5ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #000000;
+      --fg: #f5f5f7;
+      --muted: #98989d;
+      --card: #1c1c1e;
+      --border: #2c2c2e;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 48px 24px;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 720px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 48px; }
+  .logo {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #ff375f, #ff9500);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+  }
+  .tagline { color: var(--muted); font-size: 18px; }
+  h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 16px;
+    letter-spacing: -0.01em;
+  }
+  h3 { font-size: 17px; font-weight: 600; margin-top: 24px; margin-bottom: 8px; }
+  p { margin: 8px 0; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    margin: 16px 0;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .email {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 20px;
+    background: var(--accent);
+    color: white;
+    border-radius: 12px;
+    margin-top: 8px;
+  }
+  .email:hover { text-decoration: none; opacity: 0.9; }
+  .lang-switch {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 14px;
+    line-height: 2;
+  }
+  .lang-switch a { margin: 0 6px; color: var(--muted); white-space: nowrap; }
+  .lang-switch a[aria-current] { color: var(--fg); font-weight: 600; }
+  ul, ol { padding-inline-start: 24px; }
+  li { margin: 6px 0; }
+  footer {
+    margin-top: 64px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  footer a { color: var(--muted); margin: 0 8px; }
+  .hero-cta { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 20px; }
+  .store {
+    display: inline-block; padding: 12px 22px; border-radius: 12px;
+    background: var(--fg); color: var(--bg); font-weight: 600; font-size: 16px;
+  }
+  .store:hover { text-decoration: none; opacity: 0.85; }
+  .lead { font-size: 18px; }
+  .steps li { margin: 10px 0; }
+  .hint {
+    background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 10px 16px; text-align: center; font-size: 14px; margin-bottom: 24px;
+  }
+  .faq h3 { margin-top: 28px; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">Flaspek</div>
+      <div class="tagline">{{tagline}}</div>
+      <div class="hero-cta">
+        <a class="store" href="{{store_url}}">{{store_cta}}</a>
+      </div>
+    </header>
+
+    <nav class="lang-switch" aria-label="Language">
+{{lang_links}}
+    </nav>
+    <div class="hint" id="lang-hint" hidden></div>
+
+    <main>
+      <h2 id="what">{{what_h}}</h2>
+      <p class="lead">{{what_lead}}</p>
+      <p>{{what_p}}</p>
+
+      <h2 id="how">{{how_h}}</h2>
+      <ol class="steps">
+{{steps}}
+      </ol>
+      <p>{{modes_p}}</p>
+
+      <h2 id="support">{{support_h}}</h2>
+      <div class="card">
+        <p>{{support_p}}</p>
+        <p><a class="email" href="mailto:{{email}}?subject=Flaspek%20Support">{{email}}</a></p>
+      </div>
+
+      <section class="faq" id="faq">
+      <h2>{{faq_h}}</h2>
+{{faq}}
+      </section>
+
+      <h2 id="privacy">{{privacy_h}}</h2>
+      <div class="card">
+        <p>{{privacy_p}}</p>
+        <p><a href="{{root}}privacy.html">{{privacy_link}}</a> · <a href="{{root}}terms.html">{{terms_link}}</a></p>
+      </div>
+
+      <h2 id="requirements">{{req_h}}</h2>
+      <ul>
+{{req}}
+      </ul>
+    </main>
+
+    <footer>
+      <p>© 2026 Viktor Gorbatiuk · <a href="{{root}}privacy.html">{{footer_privacy}}</a> · <a href="{{root}}terms.html">{{footer_terms}}</a> · <a href="mailto:{{email}}">{{footer_contact}}</a> · <a href="{{store_url}}">App Store</a></p>
+    </footer>
+  </div>
+
+<script>
+  (function() {
+    // Offer the visitor's own language once; a click on any language link in the
+    // switcher remembers the choice and silences the hint.
+    var HINTS = {{hints_json}};
+    var ME = "{{code}}";
+    try {
+      var saved = localStorage.getItem('flaspek-lang');
+      var nav = (navigator.language || '').toLowerCase();
+      var want = nav.indexOf('zh') === 0 ? 'zh' : nav.indexOf('pt') === 0 ? 'pt' : nav.split('-')[0];
+      if (!saved && want !== ME && HINTS[want]) {
+        var h = document.getElementById('lang-hint');
+        h.innerHTML = '<a href="' + HINTS[want].href + '" lang="' + want + '">' + HINTS[want].text + '</a>';
+        h.hidden = false;
+      }
+      var links = document.querySelectorAll('.lang-switch a');
+      for (var i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function() {
+          try { localStorage.setItem('flaspek-lang', this.getAttribute('data-code')); } catch (e) {}
+        });
+      }
+    } catch (e) {}
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+{
+  "title": "Texte défilant LED, bannière et pancarte vocale pour iPhone : Flaspek — Assistance et FAQ",
+  "description": "Flaspek transforme votre iPhone en bannière LED à texte défilant, en affichage en gros caractères ou en affiche. Parlez, et vos mots remplissent l'écran. Assistance, FAQ, mode Direct, AirPods, Flaspek Pro.",
+  "og_title": "Texte défilant LED et pancarte vocale pour iPhone : Flaspek",
+  "og_description": "Parlez, et vos mots remplissent l'écran de l'iPhone en lettres géantes. Texte défilant, mot par mot ou affiche fixe. Assistance et FAQ.",
+  "hint": "Cette page existe aussi en français →",
+  "tagline": "Texte défilant LED, bannière et pancarte vocale pour iPhone",
+  "store_cta": "Télécharger dans l'App Store",
+  "what_h": "Qu'est-ce que Flaspek ?",
+  "what_lead": "Flaspek transforme votre iPhone en pancarte. Parlez, et vos mots remplissent l'écran en lettres géantes : un texte défilant façon bannière LED, un seul grand mot à la fois ou une affiche fixe sur plusieurs lignes. Sans rien taper.",
+  "what_p": "Il est fait pour les moments où vous devez être vu ou lu de loin : un concert ou un match, un hall d'arrivée, un point de rendez-vous, un bar bruyant, une salle sombre, la vitre d'une voiture ou une conversation avec quelqu'un qui ne vous entend pas.",
+  "how_h": "Comment ça marche",
+  "steps": [
+    [
+      "Dites-le.",
+      "Touchez le micro et dites votre message. Mal compris ? Touchez une capsule de langue sous le texte pour réenregistrer dans une autre langue."
+    ],
+    [
+      "Affichez-le.",
+      "Touchez Afficher. La pancarte passe en plein écran à la luminosité maximale. Pincez pour redimensionner, glissez vers le haut ou le bas pour changer la vitesse, balayez vers le bas pour quitter."
+    ],
+    [
+      "Continuez à parler.",
+      "Touchez Direct et chaque mot apparaît sur la pancarte à mesure que vous le prononcez. Pressez vos AirPods pour commencer une nouvelle ligne sans toucher l'écran."
+    ]
+  ],
+  "modes_p": "Trois modes d'affichage : <strong>Défilement</strong> (le texte défilant classique, dans tous les sens ou en rebond), <strong>Mot par mot</strong> (un seul mot centré, lisible en mouvement) et <strong>Empilé</strong> (une affiche fixe qui s'ajuste toute seule à l'écran). Effets : lueur, néon, arc-en-ciel, pulsation, scintillement, feu et traînée. Douze préréglages en un geste : Concert, Sport, Aéroport, Accueil, Extérieur, Conversation, Amour, Fête, Néon, SOS, Minimal et MAX.",
+  "support_h": "Assistance",
+  "support_p": "Besoin d'aide, un bug à signaler ou une idée de fonctionnalité ? Écrivez-moi, je lis chaque message.",
+  "faq_h": "FAQ",
+  "faq": [
+    [
+      "Comment faire un texte défilant sur mon iPhone ?",
+      "Ouvrez Flaspek, touchez le micro, dites votre message et touchez <strong>Afficher</strong>. Le texte défile sur tout l'écran à la luminosité maximale, assez grand pour être lu du fond de la salle ou à travers une foule. Pincez pour redimensionner, glissez vers le haut ou le bas pour changer la vitesse, balayez vers le bas pour quitter."
+    ],
+    [
+      "Flaspek est-il gratuit ?",
+      "Oui. Tous les styles, les effets, le mode Direct et les favoris sont gratuits. La version gratuite permet <strong>2 affichages par jour civil</strong> ; un affichage, c'est un nouveau message qui passe en plein écran, et réafficher le même message ne compte pas. <strong>Flaspek Pro</strong> lève la limite quotidienne avec un abonnement hebdomadaire ou un déblocage à vie en un seul achat. Les prix sont indiqués dans l'app et sur l'App Store de votre pays."
+    ],
+    [
+      "Qu'est-ce que le mode Direct ?",
+      "Touchez <strong>Direct</strong> et parlez pendant que la pancarte est déjà à l'écran. Chaque mot apparaît à mesure que vous le prononcez : vous pouvez tenir le téléphone au-dessus de votre tête et continuer à parler. L'enregistrement s'arrête tout seul après environ 8 secondes de silence ; touchez <strong>Redémarrer</strong> ou pressez vos AirPods pour commencer une nouvelle ligne."
+    ],
+    [
+      "La reconnaissance vocale ne fonctionne pas",
+      "Vérifiez que le micro et la reconnaissance vocale sont autorisés dans <em>Réglages → Flaspek</em>. La reconnaissance vocale est fournie par Apple et nécessite une connexion internet pour la plupart des langues. Si une phrase a été mal comprise, touchez l'une des capsules de langue sous le texte pour la réenregistrer dans une autre langue."
+    ],
+    [
+      "La commande AirPods ne réagit pas",
+      "La commande par AirPods ne fonctionne qu'en <strong>mode Direct</strong> et sur un vrai iPhone. Pressez la tige (une, deux ou trois pressions, toutes fonctionnent) pour commencer une nouvelle ligne. Vérifiez que les AirPods sont connectés et qu'une session Direct est en cours : touchez d'abord Direct, puis utilisez la pression."
+    ],
+    [
+      "Comment obtenir la ponctuation et des symboles sur la pancarte ?",
+      "Dites la ponctuation à voix haute. Les commandes vocales sont reconnues en anglais et en russe : \"comma\", \"period\", \"question mark\", \"exclamation mark\". Les symboles fonctionnent de la même façon : dites \"heart sign\", \"star sign\" ou \"arrow sign\" et vous obtenez ♥ ★ →. La dictée en anglais reçoit en plus la ponctuation automatique d'Apple."
+    ],
+    [
+      "Quelles langues sont prises en charge ?",
+      "La reconnaissance vocale fonctionne en 16 langues : English, 中文, हिन्दी, Español, Français, العربية, Português, Русский, Bahasa Indonesia, Deutsch, 日本語, Türkçe, 한국어, Italiano, Українська et Polski, plus <strong>Auto</strong> pour la langue de votre appareil. L'interface de l'app est traduite en 15 langues."
+    ],
+    [
+      "Flaspek fonctionne-t-il hors ligne ?",
+      "La pancarte elle-même fonctionne entièrement hors ligne. La reconnaissance vocale a besoin d'une connexion internet, sauf si votre iPhone dispose d'un modèle vocal installé sur l'appareil pour cette langue. Taper un message fonctionne toujours hors ligne."
+    ],
+    [
+      "Comment traduire la pancarte dans une autre langue ?",
+      "En plein écran, ouvrez le menu <strong>…</strong> et choisissez <strong>Traduire en…</strong>. La pancarte s'affiche dans la langue cible, y compris pendant que vous parlez en mode Direct. iOS peut proposer de télécharger un pack de langue la première fois."
+    ],
+    [
+      "Comment enregistrer et réutiliser un message ?",
+      "Après la dictée, touchez le bouton <strong>cœur</strong> à côté d'Afficher pour enregistrer le message avec son style actuel. Le bouton cœur de l'écran d'accueil ouvre <strong>Favoris</strong> et <strong>Récents</strong> ; les 20 derniers messages affichés sont conservés automatiquement."
+    ],
+    [
+      "Comment partager la pancarte en vidéo ou en image ?",
+      "En plein écran, ouvrez le menu <strong>…</strong> et choisissez <strong>Partager en vidéo</strong> (une boucle, 1080p) ou <strong>Partager en affiche</strong> (une image fixe). Les deux ouvrent la feuille de partage standard d'iOS."
+    ],
+    [
+      "Puis-je utiliser Siri ?",
+      "Oui : « Affiche ma pancarte dans Flaspek » affiche le dernier message, « Lance le Direct dans Flaspek » démarre une session Direct. Les deux apparaissent aussi dans l'app Raccourcis."
+    ],
+    [
+      "Comment annuler ou restaurer Flaspek Pro ?",
+      "Annulez l'abonnement hebdomadaire dans <em>Réglages de l'iPhone → votre nom → Abonnements</em>, ou touchez la ligne Flaspek Pro en bas de l'écran d'accueil et choisissez <strong>Gérer l'abonnement</strong>. Pour restaurer un achat sur un nouveau téléphone, ouvrez le même écran et touchez <strong>Restaurer les achats</strong>. Le déblocage à vie est un achat unique et ne se renouvelle jamais."
+    ],
+    [
+      "Comment supprimer mes données ?",
+      "Tous les messages, favoris et réglages sont stockés uniquement sur votre iPhone. Supprimer l'app supprime tout. Flaspek n'a ni comptes, ni statistiques, ni suivi."
+    ]
+  ],
+  "privacy_h": "Confidentialité",
+  "privacy_p": "Flaspek ne collecte, ne suit et ne partage aucune donnée personnelle. Tous vos messages et réglages restent sur votre appareil.",
+  "privacy_link": "Lire la Politique de confidentialité complète →",
+  "terms_link": "Conditions d'utilisation →",
+  "req_h": "Configuration requise",
+  "req": [
+    "iPhone sous iOS 26.4 ou version ultérieure",
+    "Accès au micro (pour la saisie vocale)",
+    "Autorisation de reconnaissance vocale",
+    "Connexion internet (pour la reconnaissance vocale dans le cloud)",
+    "AirPods ou tout casque Bluetooth avec commande lecture/pause (facultatif, pour le mode Direct mains libres)"
+  ],
+  "footer_privacy": "Confidentialité",
+  "footer_terms": "Conditions",
+  "footer_contact": "Contact",
+  "ld_description": "Flaspek transforme votre iPhone en bannière LED à texte défilant, en affichage mot à mot en gros caractères ou en affiche fixe. Parlez, et vos mots remplissent l'écran en lettres géantes, sans rien taper.",
+  "ld_os": "iOS 26.4 ou version ultérieure",
+  "ld_offer": "Gratuit avec 2 affichages par jour. Flaspek Pro (abonnement hebdomadaire ou déblocage à vie en un seul achat) lève la limite quotidienne.",
+  "ld_features": [
+    "De la voix au texte défilant : parlez et le message devient une bannière défilante en plein écran",
+    "Trois modes d'affichage : texte défilant, gros caractères mot par mot, affiche fixe",
+    "Mode Direct : les mots apparaissent sur la pancarte pendant que vous parlez",
+    "Une pression sur les AirPods commence une nouvelle ligne sans toucher l'écran",
+    "Reconnaissance vocale en 16 langues, ponctuation et symboles à la voix",
+    "Effets : lueur, néon, arc-en-ciel, pulsation, scintillement, feu, traînée ; 12 préréglages",
+    "Traduction de la pancarte dans une autre langue en temps réel",
+    "Partage en boucle vidéo ou en image affiche",
+    "Siri et Raccourcis, minuteur d'extinction, verrouillage des gestes, mode miroir"
+  ]
+}

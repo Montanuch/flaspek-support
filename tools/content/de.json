@@ -1,0 +1,118 @@
+{
+  "title": "Flaspek: LED Laufschrift & Lauftext per Stimme für iPhone — Support & FAQ",
+  "description": "Flaspek macht aus deinem iPhone eine LED Laufschrift, ein Schild in Großschrift oder ein Poster. Sag es, und deine Worte füllen den Bildschirm. Support, FAQ, Live-Modus, AirPods, Flaspek Pro.",
+  "og_title": "Flaspek: LED Laufschrift & Lauftext per Stimme für iPhone",
+  "og_description": "Sag es, und deine Worte füllen den iPhone-Bildschirm in riesigen Buchstaben. Laufschrift, Wort-für-Wort-Anzeige oder statisches Poster. Support & FAQ.",
+  "hint": "Diese Seite gibt es auch auf Deutsch →",
+  "tagline": "LED Laufschrift & Lauftext per Stimme für iPhone",
+  "store_cta": "Im App Store laden",
+  "what_h": "Was ist Flaspek?",
+  "what_lead": "Flaspek macht aus deinem iPhone ein Schild. Sag es, und deine Worte füllen den Bildschirm in riesigen Buchstaben: als LED Laufschrift, ein großes Wort nach dem anderen oder als statisches, mehrzeiliges Poster. Ganz ohne Tippen.",
+  "what_p": "Gemacht für die Momente, in denen man dich von Weitem sehen oder lesen soll: Konzert oder Stadion, Ankunftshalle, Abholung, laute Bar, dunkler Saal, Autofenster oder ein Gespräch mit jemandem, der dich nicht hören kann.",
+  "how_h": "So funktioniert es",
+  "steps": [
+    [
+      "Sag es.",
+      "Tippe auf das Mikrofon und sprich deine Nachricht. Falsch verstanden? Tippe auf eine Sprachkapsel unter dem Text und nimm in einer anderen Sprache neu auf."
+    ],
+    [
+      "Zeig es.",
+      "Tippe auf „Anzeigen“. Das Schild füllt den ganzen Bildschirm bei maximaler Helligkeit. Ziehen mit zwei Fingern für die Größe, nach oben oder unten wischen für das Tempo, lang nach unten wischen zum Beenden."
+    ],
+    [
+      "Sprich weiter.",
+      "Tippe auf Live, und jedes Wort erscheint auf dem Schild, sobald du es sagst. Drücke deine AirPods, um eine neue Zeile zu beginnen, ohne den Bildschirm zu berühren."
+    ]
+  ],
+  "modes_p": "Drei Anzeigearten: <strong>Laufschrift</strong> (der Klassiker, jede Richtung oder pendelnd), <strong>Wort für Wort</strong> (ein Wort zentriert, lesbar auch in Bewegung) und <strong>Gestapelt</strong> (ein statisches Schild, das sich selbst an den Bildschirm anpasst). Effekte: Leuchten, Neon, Regenbogen, Puls, Flackern, Feuer und Schweif. Zwölf Vorlagen mit einem Tipp: Konzert, Sport, Flughafen, Abholung, Draußen, Gespräch, Liebe, Party, Neon, SOS, Minimal und MAX.",
+  "support_h": "Support",
+  "support_p": "Brauchst du Hilfe, hast du einen Fehler gefunden oder einen Wunsch? Schreib mir — ich lese jede Nachricht.",
+  "faq_h": "FAQ",
+  "faq": [
+    [
+      "Wie erstelle ich eine Laufschrift auf dem iPhone?",
+      "Öffne Flaspek, tippe auf das Mikrofon, sprich deine Nachricht und tippe auf <strong>„Anzeigen“</strong>. Der Text läuft bei maximaler Helligkeit über den ganzen Bildschirm, groß genug, um ihn quer durch den Raum oder über eine Menge hinweg zu lesen. Ziehen mit zwei Fingern ändert die Größe, Wischen nach oben oder unten das Tempo, Wischen nach unten beendet die Anzeige."
+    ],
+    [
+      "Ist Flaspek kostenlos?",
+      "Ja. Alle Stile, Effekte, der Live-Modus und die Favoriten sind kostenlos. Die kostenlose Version erlaubt <strong>2 Anzeigen pro Kalendertag</strong>; eine Anzeige ist eine neue Nachricht im Vollbild, dieselbe Nachricht noch einmal zu zeigen ist frei. <strong>Flaspek Pro</strong> hebt das Tageslimit auf, als Wochenabo oder als einmalige Freischaltung auf Lebenszeit. Die Preise siehst du in der App und im App Store deines Landes."
+    ],
+    [
+      "Was ist der Live-Modus?",
+      "Tippe auf <strong>Live</strong> und sprich, während das Schild schon auf dem Bildschirm ist. Jedes Wort erscheint, sobald du es sagst, sodass du das iPhone über den Kopf halten und weitersprechen kannst. Die Aufnahme stoppt von selbst nach etwa 8 Sekunden Stille; tippe auf <strong>„Neustart“</strong> oder drücke deine AirPods, um eine neue Zeile zu beginnen."
+    ],
+    [
+      "Die Spracherkennung funktioniert nicht",
+      "Prüfe, ob Mikrofon und Spracherkennung unter <em>Einstellungen → Flaspek</em> erlaubt sind. Die Spracherkennung kommt von Apple und braucht für die meisten Sprachen eine Internetverbindung. Wurde ein Satz falsch verstanden, tippe auf eine der Sprachkapseln unter dem Text und nimm ihn in einer anderen Sprache neu auf."
+    ],
+    [
+      "Die AirPods-Steuerung reagiert nicht",
+      "Die AirPods-Steuerung funktioniert nur im <strong>Live-Modus</strong> auf einem echten iPhone. Drücke den Stiel (einfach, doppelt oder dreifach, alles geht), um eine neue Zeile zu beginnen. Die AirPods müssen verbunden sein und eine Live-Sitzung muss laufen: erst einmal auf Live tippen, dann drücken."
+    ],
+    [
+      "Wie bekomme ich Satzzeichen und Symbole ins Schild?",
+      "Sprich die Satzzeichen auf Englisch mit: “comma”, “period”, “question mark”, “exclamation mark”. Symbole genauso: “heart sign”, “star sign” oder “arrow sign” ergeben ♥ ★ →. Gesprochene Satzzeichen werden derzeit auf Englisch und Russisch erkannt. Beim Diktieren auf Englisch setzt Apple außerdem automatisch Satzzeichen."
+    ],
+    [
+      "Welche Sprachen werden unterstützt?",
+      "Die Spracherkennung funktioniert in 16 Sprachen: English, 中文, हिन्दी, Español, Français, العربية, Português, Русский, Bahasa Indonesia, Deutsch, 日本語, Türkçe, 한국어, Italiano, Українська und Polski, dazu <strong>„Auto“</strong> für deine Gerätesprache. Die Oberfläche der App ist in 15 Sprachen übersetzt."
+    ],
+    [
+      "Funktioniert Flaspek offline?",
+      "Das Schild selbst funktioniert komplett offline. Die Spracherkennung braucht eine Internetverbindung, es sei denn, auf deinem iPhone ist für diese Sprache ein Sprachmodell für die Verarbeitung auf dem Gerät installiert. Eine Nachricht zu tippen geht immer offline."
+    ],
+    [
+      "Wie übersetze ich das Schild in eine andere Sprache?",
+      "Öffne im Vollbild das Menü <strong>…</strong> und wähle <strong>„Übersetzen in…“</strong>. Das Schild wird in der Zielsprache angezeigt, auch während du im Live-Modus sprichst. Beim ersten Mal fragt iOS eventuell, ob ein Sprachpaket geladen werden soll."
+    ],
+    [
+      "Wie speichere ich eine Nachricht und nutze sie wieder?",
+      "Tippe nach dem Diktieren auf den <strong>Herz</strong>-Button neben „Anzeigen“, um die Nachricht mit ihrem aktuellen Stil zu speichern. Der Herz-Button auf dem Startbildschirm öffnet <strong>„Favoriten“</strong> und <strong>„Zuletzt“</strong>; die letzten 20 gezeigten Nachrichten werden automatisch aufbewahrt."
+    ],
+    [
+      "Wie teile ich das Schild als Video oder Bild?",
+      "Öffne im Vollbild das Menü <strong>…</strong> und wähle <strong>„Als Video teilen“</strong> (eine Schleife, 1080p) oder <strong>„Als Poster teilen“</strong> (ein statisches Bild). Beides öffnet das normale Teilen-Menü von iOS."
+    ],
+    [
+      "Kann ich Siri benutzen?",
+      "Ja: „Zeig mein Schild in Flaspek“ zeigt die letzte Nachricht, „Live starten in Flaspek“ startet eine Live-Sitzung. Beide findest du auch in der Kurzbefehle-App."
+    ],
+    [
+      "Wie kündige ich Flaspek Pro oder stelle es wieder her?",
+      "Das Wochenabo kündigst du unter <em>iPhone-Einstellungen → dein Name → Abonnements</em>, oder du tippst unten auf dem Startbildschirm auf die Zeile Flaspek Pro und wählst <strong>„Abo verwalten“</strong>. Um einen Kauf auf einem neuen iPhone wiederherzustellen, öffne denselben Bildschirm und tippe auf <strong>„Käufe wiederherstellen“</strong>. Die Freischaltung auf Lebenszeit ist ein einmaliger Kauf und verlängert sich nie."
+    ],
+    [
+      "Wie lösche ich meine Daten?",
+      "Alle Nachrichten, Favoriten und Einstellungen liegen nur auf deinem iPhone. Löschst du die App, ist alles weg. Flaspek hat keine Konten, keine Analyse und kein Tracking."
+    ]
+  ],
+  "privacy_h": "Datenschutz",
+  "privacy_p": "Flaspek sammelt, verfolgt und teilt keine personenbezogenen Daten. Alle deine Nachrichten und Einstellungen bleiben auf deinem Gerät.",
+  "privacy_link": "Vollständige Datenschutzrichtlinie →",
+  "terms_link": "Nutzungsbedingungen →",
+  "req_h": "Systemvoraussetzungen",
+  "req": [
+    "iPhone mit iOS 26.4 oder neuer",
+    "Mikrofonzugriff (für die Spracheingabe)",
+    "Berechtigung für die Spracherkennung",
+    "Internetverbindung (für die cloudbasierte Spracherkennung)",
+    "AirPods oder ein beliebiges Bluetooth-Headset mit Play/Pause-Taste (optional, für Live ohne Hände)"
+  ],
+  "footer_privacy": "Datenschutz",
+  "footer_terms": "Nutzungsbedingungen",
+  "footer_contact": "Kontakt",
+  "ld_description": "Flaspek macht aus deinem iPhone eine LED Laufschrift, eine Wort-für-Wort-Anzeige in Großschrift oder ein statisches Poster. Sag es, und deine Worte füllen den Bildschirm in riesigen Buchstaben, ganz ohne Tippen.",
+  "ld_os": "iOS 26.4 oder neuer",
+  "ld_offer": "Kostenlos mit 2 Anzeigen pro Tag. Flaspek Pro (Wochenabo oder einmalige Freischaltung auf Lebenszeit) hebt das Tageslimit auf.",
+  "ld_features": [
+    "Stimme wird Laufschrift: sprich, und die Nachricht wird zur Laufschrift im Vollbild",
+    "Drei Anzeigearten: Laufschrift, Großschrift Wort für Wort, statisches Poster",
+    "Live-Modus: Wörter erscheinen auf dem Schild, während du sprichst",
+    "AirPods drücken beginnt eine neue Zeile, ohne den Bildschirm zu berühren",
+    "Spracherkennung in 16 Sprachen, gesprochene Satzzeichen und Symbole",
+    "Effekte: Leuchten, Neon, Regenbogen, Puls, Flackern, Feuer, Schweif; 12 Vorlagen",
+    "Live-Übersetzung des Schilds in eine andere Sprache",
+    "Teilen als Video-Loop oder Poster-Bild",
+    "Siri und Kurzbefehle, Abschalt-Timer, Gestensperre, Spiegelmodus"
+  ]
+}

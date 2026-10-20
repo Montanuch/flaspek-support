@@ -39,6 +39,19 @@ No accounts, no analytics, no tracking, no ads. Messages, favorites and settings
 ## Pages
 
 - Support & FAQ (English): https://montanuch.github.io/flaspek-support/
-- Support & FAQ (Russian): https://montanuch.github.io/flaspek-support/ru/
+- Support & FAQ (Русский): https://montanuch.github.io/flaspek-support/ru/
+- Support & FAQ (Español): https://montanuch.github.io/flaspek-support/es/
+- Support & FAQ (中文): https://montanuch.github.io/flaspek-support/zh/
+- Support & FAQ (हिन्दी): https://montanuch.github.io/flaspek-support/hi/
+- Support & FAQ (Français): https://montanuch.github.io/flaspek-support/fr/
+- Support & FAQ (العربية): https://montanuch.github.io/flaspek-support/ar/
+- Support & FAQ (Português): https://montanuch.github.io/flaspek-support/pt/
+- Support & FAQ (Bahasa Indonesia): https://montanuch.github.io/flaspek-support/id/
+- Support & FAQ (Deutsch): https://montanuch.github.io/flaspek-support/de/
+- Support & FAQ (日本語): https://montanuch.github.io/flaspek-support/ja/
+- Support & FAQ (Türkçe): https://montanuch.github.io/flaspek-support/tr/
+- Support & FAQ (한국어): https://montanuch.github.io/flaspek-support/ko/
+- Support & FAQ (Italiano): https://montanuch.github.io/flaspek-support/it/
+- Support & FAQ (Українська): https://montanuch.github.io/flaspek-support/uk/
 - Privacy Policy: https://montanuch.github.io/flaspek-support/privacy.html
 - Terms of Use: https://montanuch.github.io/flaspek-support/terms.html

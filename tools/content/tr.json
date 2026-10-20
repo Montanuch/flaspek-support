@@ -1,0 +1,118 @@
+{
+  "title": "Flaspek: Sesli LED Kayan Yazı ve Tabela, iPhone için — Destek ve SSS",
+  "description": "Flaspek, iPhone'unu LED kayan yazıya, büyük yazılı tabelaya veya postere dönüştürür. Konuş, sözlerin ekranı doldursun. Destek, SSS, Canlı mod, AirPods, Flaspek Pro.",
+  "og_title": "Flaspek: Sesli LED Kayan Yazı ve Tabela, iPhone için",
+  "og_description": "Konuş, sözlerin iPhone ekranını dev harflerle doldursun. Kayan yazı, kelime kelime gösterim veya sabit poster. Destek ve SSS.",
+  "hint": "Bu sayfanın Türkçe sürümü de var →",
+  "tagline": "Sesli LED kayan yazı ve tabela, iPhone için",
+  "store_cta": "App Store'dan indir",
+  "what_h": "Flaspek nedir?",
+  "what_lead": "Flaspek, iPhone'unu bir tabelaya dönüştürür. Konuş, sözlerin dev harflerle ekranı doldursun: LED tarzı kayan yazı, her seferinde tek büyük kelime ya da sabit, çok satırlı bir poster. Yazmana gerek yok.",
+  "what_p": "Uzaktan görülmen ya da okunman gereken anlar için yapıldı: konser veya maç, geliş salonu, karşılama noktası, gürültülü bir bar, karanlık bir salon, araba camı ya da seni duyamayan biriyle sohbet.",
+  "how_h": "Nasıl çalışır",
+  "steps": [
+    [
+      "Söyle.",
+      "Mikrofona dokun ve mesajını söyle. Yanlış mı anlaşıldı? Metnin altındaki dil kapsülüne dokunarak başka bir dilde yeniden kaydet."
+    ],
+    [
+      "Göster.",
+      "Göster'e dokun. Tabela maksimum parlaklıkta tam ekrana geçer. Boyut için sıkıştır, hız için yukarı veya aşağı sürükle, çıkmak için aşağı kaydır."
+    ],
+    [
+      "Konuşmaya devam et.",
+      "Canlı'ya dokun; her kelime sen söyledikçe tabelada belirir. Ekrana dokunmadan yeni bir satıra başlamak için AirPods'unu sık."
+    ]
+  ],
+  "modes_p": "Üç gösterim modu: <strong>Kayan</strong> (klasik kayan yazı, her yön ya da ileri geri sekme), <strong>Kelime kelime</strong> (ortada tek kelime, hareket halinde bile okunur) ve <strong>Yığın</strong> (ekrana kendini sığdıran sabit tabela). Efektler: parıltı, neon, gökkuşağı, nabız, titreme, ateş ve iz. Tek dokunuşla on iki hazır ayar: Konser, Spor, Havalimanı, Karşılama, Dış mekân, Sohbet, Aşk, Parti, Neon, SOS, Minimal ve MAX.",
+  "support_h": "Destek",
+  "support_p": "Yardım mı lazım, bir hata mı buldun ya da bir özellik mi istiyorsun? Yaz — her mesajı okuyorum.",
+  "faq_h": "SSS",
+  "faq": [
+    [
+      "iPhone'umda kayan yazı nasıl yaparım?",
+      "Flaspek'i aç, mikrofona dokun, mesajını söyle ve <strong>Göster</strong>'e dokun. Metin maksimum parlaklıkta tüm ekran boyunca kayar; odanın öbür ucundan ya da kalabalığın ötesinden okunacak kadar büyüktür. Boyut için sıkıştır, hız için yukarı veya aşağı sürükle, çıkmak için aşağı kaydır."
+    ],
+    [
+      "Flaspek ücretsiz mi?",
+      "Evet. Tüm stiller, efektler, Canlı mod ve favoriler ücretsiz. Ücretsiz sürüm <strong>takvim günü başına 2 gösterim</strong> sunar; gösterim, tam ekrana çıkan yeni bir mesajdır, aynı mesajı tekrar göstermek ücretsizdir. <strong>Flaspek Pro</strong> günlük sınırı haftalık abonelikle veya tek seferlik ömür boyu açılışla kaldırır. Fiyatlar uygulamada ve ülkenin App Store'unda gösterilir."
+    ],
+    [
+      "Canlı mod nedir?",
+      "<strong>Canlı</strong>'ya dokun ve tabela ekrandayken konuş. Her kelime sen söyledikçe belirir; telefonu başının üzerinde tutup konuşmaya devam edebilirsin. Kayıt yaklaşık 8 saniyelik sessizlikten sonra kendiliğinden durur; yeni bir satıra başlamak için <strong>Yeniden başlat</strong>'a dokun ya da AirPods'unu sık."
+    ],
+    [
+      "Konuşma tanıma çalışmıyor",
+      "<em>Ayarlar → Flaspek</em> altında Mikrofon ve Konuşma Tanıma izinlerinin açık olduğundan emin ol. Konuşma tanıma Apple tarafından sağlanır ve çoğu dil için internet bağlantısı gerekir. Bir cümle yanlış anlaşıldıysa metnin altındaki dil kapsüllerinden birine dokunarak başka bir dilde yeniden kaydet."
+    ],
+    [
+      "AirPods uzaktan kumandası tetiklenmiyor",
+      "AirPods kontrolü yalnızca gerçek bir iPhone'da ve <strong>Canlı modda</strong> çalışır. Yeni bir satıra başlamak için sapı sık (tek, çift ya da üçlü basış, hepsi olur). AirPods'un bağlı olduğundan ve bir Canlı oturumun sürdüğünden emin ol: önce bir kez Canlı'ya dokun, sonra sıkma hareketini kullan."
+    ],
+    [
+      "Tabelaya noktalama ve sembolleri nasıl eklerim?",
+      "Noktalamayı İngilizce söyle: “comma”, “period”, “question mark”, “exclamation mark”. Semboller de aynı şekilde: “heart sign”, “star sign” veya “arrow sign” dersen ♥ ★ → çıkar. Sesli noktalama komutları şu an İngilizce ve Rusça tanınır. İngilizce dikte ayrıca Apple'ın otomatik noktalamasını alır."
+    ],
+    [
+      "Hangi diller destekleniyor?",
+      "Konuşma tanıma 16 dilde çalışır: English, 中文, हिन्दी, Español, Français, العربية, Português, Русский, Bahasa Indonesia, Deutsch, 日本語, Türkçe, 한국어, Italiano, Українська ve Polski; ayrıca cihaz dilin için <strong>Otomatik</strong>. Uygulama arayüzü 15 dile çevrildi."
+    ],
+    [
+      "Flaspek çevrimdışı çalışır mı?",
+      "Tabelanın kendisi tamamen çevrimdışı çalışır. Konuşma tanıma için internet bağlantısı gerekir; iPhone'unda o dil için cihaz üstü konuşma modeli yüklüyse gerekmez. Mesajı klavyeyle yazmak her zaman çevrimdışı çalışır."
+    ],
+    [
+      "Tabelayı başka bir dile nasıl çeviririm?",
+      "Tam ekranda <strong>…</strong> menüsünü aç ve <strong>Şu dile çevir…</strong> seçeneğini seç. Tabela hedef dilde gösterilir; Canlı modda konuşurken bile. iOS ilk seferde dil paketi indirmeyi isteyebilir."
+    ],
+    [
+      "Bir mesajı nasıl kaydedip tekrar kullanırım?",
+      "Dikteden sonra Göster'in yanındaki <strong>kalp</strong> düğmesine dokun; mesaj mevcut stiliyle kaydedilir. Ana ekrandaki kalp düğmesi <strong>Favoriler</strong> ve <strong>Son</strong> listelerini açar; gösterilen son 20 mesaj otomatik olarak saklanır."
+    ],
+    [
+      "Tabelayı video veya resim olarak nasıl paylaşırım?",
+      "Tam ekranda <strong>…</strong> menüsünü aç ve <strong>Video olarak paylaş</strong> (tek döngü, 1080p) ya da <strong>Poster olarak paylaş</strong> (sabit görsel) seçeneğini seç. İkisi de standart iOS paylaşım menüsünü açar."
+    ],
+    [
+      "Siri kullanabilir miyim?",
+      "Evet: “Flaspek ile tabelamı göster” son mesajı gösterir, “Flaspek ile Canlı modu başlat” bir Canlı oturum başlatır. İkisi de Kısayollar uygulamasında görünür."
+    ],
+    [
+      "Flaspek Pro'yu nasıl iptal eder veya geri yüklerim?",
+      "Haftalık planı <em>iPhone Ayarlar → adın → Abonelikler</em> altından iptal et ya da ana ekranın altındaki Flaspek Pro satırına dokunup <strong>Aboneliği yönet</strong>'i seç. Yeni bir telefonda satın almayı geri yüklemek için aynı ekranı açıp <strong>Satın almaları geri yükle</strong>'ye dokun. Ömür boyu açılış tek seferlik bir satın almadır ve asla yenilenmez."
+    ],
+    [
+      "Verilerimi nasıl silerim?",
+      "Tüm mesajlar, favoriler ve ayarlar yalnızca iPhone'unda saklanır. Uygulamayı silmek her şeyi siler. Flaspek'te hesap, analitik ve izleme yoktur."
+    ]
+  ],
+  "privacy_h": "Gizlilik",
+  "privacy_p": "Flaspek hiçbir kişisel veri toplamaz, izlemez veya paylaşmaz. Tüm mesajların ve ayarların cihazında kalır.",
+  "privacy_link": "Gizlilik Politikası'nın tamamını oku →",
+  "terms_link": "Kullanım Koşulları →",
+  "req_h": "Sistem gereksinimleri",
+  "req": [
+    "iOS 26.4 veya üzeri yüklü iPhone",
+    "Mikrofon erişimi (sesli giriş için)",
+    "Konuşma Tanıma izni",
+    "İnternet bağlantısı (bulut tabanlı konuşma tanıma için)",
+    "AirPods veya oynat/duraklat kontrolü olan herhangi bir Bluetooth kulaklık (isteğe bağlı, eller serbest Canlı için)"
+  ],
+  "footer_privacy": "Gizlilik",
+  "footer_terms": "Koşullar",
+  "footer_contact": "İletişim",
+  "ld_description": "Flaspek, iPhone'unu LED kayan yazıya, kelime kelime büyük yazı ekranına veya sabit bir poster tabelaya dönüştürür. Konuş, sözlerin dev harflerle ekranı doldursun; yazmana gerek yok.",
+  "ld_os": "iOS 26.4 veya üzeri",
+  "ld_offer": "Günde 2 gösterimle ücretsiz. Flaspek Pro (haftalık abonelik veya tek seferlik ömür boyu açılış) günlük sınırı kaldırır.",
+  "ld_features": [
+    "Sesten kayan yazıya: konuş, mesaj tam ekran kayan yazıya dönüşsün",
+    "Üç gösterim modu: kayan yazı, kelime kelime büyük yazı, sabit poster",
+    "Canlı mod: kelimeler sen konuştukça tabelada belirir",
+    "AirPods'u sıkmak ekrana dokunmadan yeni satır başlatır",
+    "16 dilde konuşma tanıma, sesli noktalama ve semboller",
+    "Efektler: parıltı, neon, gökkuşağı, nabız, titreme, ateş, iz; 12 hazır ayar",
+    "Tabelanın başka bir dile canlı çevirisi",
+    "Video döngüsü veya poster görseli olarak paylaşım",
+    "Siri ve Kısayollar, otomatik kapanma zamanlayıcısı, hareket kilidi, ayna modu"
+  ]
+}
